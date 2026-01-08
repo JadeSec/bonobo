@@ -1,5 +1,4 @@
-
-<img width="100" height="100" alt="bonobo" src="https://github.com/user-attachments/assets/c0db304e-2694-4cba-a6f9-b6252f7c2be5" />
+<img width="100" height="100" alt="bonobo" src="https://github.com/user-attachments/assets/679b51d9-0707-402b-8563-f34bebb9e124" />
 
 **Flow-based DAST engine for OpenAPI and GraphQL APIs**
 

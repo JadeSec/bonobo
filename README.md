@@ -1,6 +1,7 @@
-# bonobo
 
-**Flow-based DAST engine for OpenAPI and GraphQL APIs**
+<img width="100" height="100" alt="bonobo" src="https://github.com/user-attachments/assets/c0db304e-2694-4cba-a6f9-b6252f7c2be5" />
+
+*Flow-based DAST engine for OpenAPI and GraphQL APIs**
 
 Bonobo is an open-source **Dynamic Application Security Testing (DAST)** engine designed specifically for **API-first systems**.  
 Instead of testing endpoints in isolation, Bonobo executes **stateful, ordered flows** that reflect real-world API usage patterns.
